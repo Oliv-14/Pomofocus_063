@@ -1,10 +1,12 @@
+// File: redux/store.js
+
 import { configureStore } from "@reduxjs/toolkit";
 import timerReducer from "./timerSlice";
+import taskReducer from "./taskSlice"; // <-- PASTIKAN SEPERTI INI
 
-const store = configureStore({
+export const store = configureStore({
   reducer: {
     timer: timerReducer,
+    tasks: taskReducer,
   },
 });
-
-export default store;

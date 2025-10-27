@@ -34,7 +34,6 @@ ul {
 html,
 body {
   height: 100%;
-  overflow: hidden;
 }
 
 #root {
@@ -42,4 +41,10 @@ body {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+}
+
+body {
+  background-color: #ba4949;
+  color: white;
+  font-family: Arial, sans-serif;
 }

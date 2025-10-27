@@ -7,7 +7,7 @@ import App from "./App";
 import Settings from "./components/Settings";
 import Report from "./components/Report";
 import EmailLogin from "./components/EmailLogin";
-import store from "./redux/store";
+import { store } from "./redux/store";
 
 function Main() {
   return (
