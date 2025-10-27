@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pomofocus_063/static/css/main.c55b57d9.chunk.css",
-    "main.js": "/Pomofocus_063/static/js/main.b8ca23b9.chunk.js",
-    "main.js.map": "/Pomofocus_063/static/js/main.b8ca23b9.chunk.js.map",
+    "main.js": "/Pomofocus_063/static/js/main.9c01b2b6.chunk.js",
+    "main.js.map": "/Pomofocus_063/static/js/main.9c01b2b6.chunk.js.map",
     "runtime-main.js": "/Pomofocus_063/static/js/runtime-main.b6adaf40.js",
     "runtime-main.js.map": "/Pomofocus_063/static/js/runtime-main.b6adaf40.js.map",
     "static/js/2.5db2ab17.chunk.js": "/Pomofocus_063/static/js/2.5db2ab17.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b6adaf40.js",
     "static/js/2.5db2ab17.chunk.js",
     "static/css/main.c55b57d9.chunk.css",
-    "static/js/main.b8ca23b9.chunk.js"
+    "static/js/main.9c01b2b6.chunk.js"
   ]
 }
